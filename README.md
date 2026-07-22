@@ -25,7 +25,7 @@ Currently, I'm focusing on frontend development using React and React Native whi
 
 <td width="40%" align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExam84MXRkaDJzd25maWsycHlwY3FvZGtpeDMxczJhcHRsbm41NjJocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K6S2ZBjTiorL9m1suV/giphy.gif" width="320"/>
+<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExam84MXRkaDJzd25maWsycHlwY3FvZGtpeDMxczJhcHRsbm41NjJocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K6S2ZBjTiorL9m1suV/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZxaTN4MjVyMTlrbHUwZmN4cHo0d3J3enptcjRrbWxjNTR0YXdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gMirGc1JyjoyY/giphy.gif)" width="320"/>
 
 </td>
 </tr>
