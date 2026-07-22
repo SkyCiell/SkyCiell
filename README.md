@@ -57,8 +57,8 @@ Currently, I'm focusing on frontend development using React and React Native whi
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SkyCiell&show_icons=true&theme=transparent" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyCiell&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SkyCiell&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SkyCiell&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
 ---
