@@ -67,7 +67,7 @@ Currently, I'm focusing on frontend development using React and React Native whi
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=express,mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
 </p>
 
 ### Tools
