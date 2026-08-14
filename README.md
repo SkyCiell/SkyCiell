@@ -99,7 +99,7 @@ Currently, I'm focusing on frontend development using React and React Native whi
 | 🏗️ BuildForge | PC Builder & hardware recommendation platform |
 | 🛒 E-Commerce | Full-featured shopping website |
 | 📱 Mobile Apps | React Native applications |
-| 🌐 Portfolio | Personal portfolio website |
+| 🌐 SSTC | Screen Shot To Code website |
 
 ---
 
