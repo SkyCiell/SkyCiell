@@ -1,57 +1,84 @@
-# Muhammad Raffi Barzally
+# Hi there, I'm Muhammad Raffi Barzally 👋
 
-Frontend Developer · Software Engineering Student
+<table>
+<tr>
+<td width="60%">
 
-Software Engineering student from Indonesia focused on building modern, responsive, and user-friendly web and mobile applications.
+### Frontend Developer • Software Engineering Student
 
-Currently working with React and React Native while exploring modern frontend technologies, UI/UX, and responsive design.
+I'm a Software Engineering student from Indonesia with a strong passion for building modern, responsive, and user-friendly web and mobile applications.
 
-React · React Native · UI/UX · Responsive Design
+Currently, I'm focusing on frontend development using React and React Native while continuously improving my skills through personal and academic projects.
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0F766E&center=false&vCenter=true&width=500&lines=Frontend+Developer;React+%26+React+Native;Always+Learning+New+Things" />
 
-## About
+<br><br>
 
-Software Engineering Student at Taruna Bhakti Vocational School
+<p>
+  <img src="https://img.shields.io/badge/Frontend-Developer-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-Frontend Developer
+</td>
 
-React & React Native
+<td width="40%" align="center">
 
-UI/UX & Responsive Design
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZxaTN4MjVyMTlrbHUwZmN4cHo0d3J3enptcjRrbWxjNTR0YXdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gMirGc1JyjoyY/giphy.gif" width="320"/>
 
-Currently learning modern frontend technologies
+</td>
+</tr>
+</table>
 
-Indonesia
+---
 
+## 🚀 About Me
 
-## Tech Stack
+- 🎓 Software Engineering Student at Taruna Bhakti Vocational School
+- 💻 Frontend Developer
+- ⚛️ Building applications with React & React Native
+- 🎨 Passionate about UI/UX and responsive design
+- 🌱 Currently learning modern frontend technologies
+- 📍 Indonesia
 
-Languages
+---
 
-HTML · CSS · JavaScript
+## 🛠 Tech Stack
 
+### Languages
 
-Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-React · Next.js · Tailwind CSS · Vite
+### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
 
-Mobile
+### Mobile
 
-React Native
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
+### Backend & Database
 
-Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
+</p>
 
-MySQL · Supabase
+### Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+</p>
 
-Tools
+---
 
-Git · GitHub · VS Code · Figma · Postman · npm
-
-
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=SkyCiell&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
@@ -59,49 +86,48 @@ Git · GitHub · VS Code · Figma · Postman · npm
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=SkyCiell&theme=transparent&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SkyCiell&theme=transparent&hide_border=true"/>
 </p>
 
+---
 
-## Selected Work
+## 🏆 Featured Projects
 
-Music Player
+| Project | Description |
+|---------|-------------|
+| 🎵 Music Player | Modern music streaming web application |
+| 🏗️ BuildForge | PC Builder & hardware recommendation platform |
+| 🛒 E-Commerce | Full-featured shopping website |
+| 📱 Mobile Apps | React Native applications |
+| 🌐 SSTC | Screen Shot To Code website |
 
-Modern music streaming web application.
+---
 
+## 📫 Connect With Me
 
-BuildForge
+<p>
+<a href="https://github.com/SkyCiell">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
 
-PC Builder and hardware recommendation platform.
+<a href="https://www.linkedin.com/in/raffi-barzally-a18979382">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
 
+<a href="mailto:raffi.barzally@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-E-Commerce
-
-Full-featured shopping website.
-
-
-Mobile Apps
-
-React Native applications.
-
-
-SSTC
-
-Screenshot-to-Code website.
-
-
-## Connect
-
-GitHub  
-https://github.com/SkyCiell
-
-LinkedIn  
-https://www.linkedin.com/in/raffi-barzally-a18979382
-
-Email  
-raffi.barzally@gmail.com
-
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SkyCiell&label=Profile+Views&color=0F766E&style=for-the-badge"/>
 </p>
+
+<p align="center">
+  <i>"Code. Learn. Improve. Repeat."</i>
+</p>
+
+
+ubah desain ini juga
