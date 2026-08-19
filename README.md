@@ -10,22 +10,22 @@ I’m a Software Engineering graduate from Indonesia, focused on React and React
 
 ## Tech Stack
 
-### Languages
+## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
+### Markup & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
-
-### Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Backend & Database
@@ -42,7 +42,7 @@ I’m a Software Engineering graduate from Indonesia, focused on React and React
 
 ---
 
-## Languages I Can Use
+## Spoken Languages
 
 | Language   | Level        |
 | ---------- | ------------ |
@@ -50,9 +50,6 @@ I’m a Software Engineering graduate from Indonesia, focused on React and React
 | English    | Intermediate |
 | Japanese   | Basic        |
 
-I use Indonesian daily, English for technical documentation, development resources, and communication, and Japanese at a basic level.
-
----
 
 ## What I Do
 
